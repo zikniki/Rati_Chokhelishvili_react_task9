@@ -16,6 +16,7 @@ const App = () => {
         <InputPart />
         <FooterPart />
       </div>
+      {/* done */}
     </div>
 
   )
