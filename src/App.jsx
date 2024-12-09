@@ -1,7 +1,7 @@
 import React from 'react'
 import HeaderPart from './assets/organismes/headerPart/headerPart'
 import InputPart from './assets/organismes/inputPart/inputPart'
-import FooterPart from './assets/organismes/footerPart/FooterPart'
+import FooterPart from './assets/organismes/footerPart/footerPart1'
 import MainPart from './assets/organismes/mainPart/mainPart'
 
 
@@ -16,7 +16,6 @@ const App = () => {
         <InputPart />
         <FooterPart />
       </div>
-      {/* done */}
     </div>
 
   )
